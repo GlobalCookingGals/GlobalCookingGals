@@ -1,4 +1,22 @@
 h1, h2, h3, h4, h5, h6 { color: pink; }
+; 
 
+h2 { 
+    color: pink;
+    text-decoration: dotted;
+    font-size: 50px ;
+    font-family:Arial, Helvetica, sans-serif; 
+}
 
+h3 { 
+    color: pink;
+    text-decoration: dotted; 
+ font-size: 50px ;
+ font-family:Arial, Helvetica, sans-serif; 
+}
 
+h1 { 
+    color: pink;
+    text-decoration: dotted;
+    font-size: 50px ;
+     font-family:Arial, Helvetica, sans-serif; }
