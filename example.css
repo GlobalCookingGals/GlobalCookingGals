@@ -12,6 +12,21 @@
     font-style: italic;
 }
 
+#search-text { 
+
+    text-align: center;
+    font-size: 30px;
+
+}
+
+#test1 { 
+
+text-align:center;
+font-size: 30px;
+
+}
+
+
 center { 
 display:block;
 margin-left: auto;
