@@ -2,8 +2,20 @@
     text-align: center;
     color: blueviolet;
     font-size: 63px;
+    font-style: italic;
 }
 
-#test {
+#test { 
     
+    color:blueviolet;
+    font-size: 35px;
+    font-style: italic;
 }
+
+center { 
+display:block;
+margin-left: auto;
+margin-right: auto:
+widows: 50%;
+}
+
