@@ -34,37 +34,20 @@ margin-right: auto;
 widows: 50%;
 }
 
-#img {   
 
-width:  250px;
-height: 250px;
-
-
-} 
-
-#third {
-
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
 }
 
+.third {
+    float: left;
+    width: 33.33%;
+    height: 50px;
+  }
 
-#leftimg  { 
 
-text-align: center;
-width: 50px;
-height: 50px;
-
-}
-
-#middleimg {
-    margin-left: 0px;
-    margin-right: 25px;
-}
-
-#rightimg {
-    margin-right: 0px;
-    margin-left: 25px;
-
-}
 
 div.gallery {
     border: 1px solid #ccc;
