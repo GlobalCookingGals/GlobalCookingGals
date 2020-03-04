@@ -36,6 +36,14 @@ h4{
     font-size: 30px ;
      font-family:Arial, Helvetica, sans-serif;
      text-shadow: 1px 1px 2px rgb(255, 0, 128), 0 0 1em rgb(111, 0, 255), 0 0 0.2em blue;
+
+
+     h7 { 
+        color: pink;
+        text-decoration: dotted;
+        font-size: 15px ;
+         font-family:Arial, Helvetica, sans-serif;
+         text-shadow: 1px 1px 2px rgb(255, 0, 128), 0 0 1em rgb(111, 0, 255), 0 0 0.2em blue;
     
 }
 
