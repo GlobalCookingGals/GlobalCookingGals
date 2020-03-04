@@ -2,7 +2,7 @@
 
 
 
-h1, h2,  h3, h4, h5, h6 { color: pink; }
+h1, h2,  h3, h4, h5, h6 , h7 { color: pink; }
 ; 
 
 h2 { 
@@ -30,6 +30,15 @@ h1 {
     
 }
 
+h7 { 
+    color: pink;
+    text-decoration: dotted;
+    font-size: px ;
+     font-family:Arial, Helvetica, sans-serif;
+     text-shadow: 1px 1px 2px rgb(255, 0, 128), 0 0 1em rgb(111, 0, 255), 0 0 0.2em blue;
+    
+}
+
 h4{ 
     color: pink;
     text-decoration: dotted;
@@ -38,12 +47,7 @@ h4{
      text-shadow: 1px 1px 2px rgb(255, 0, 128), 0 0 1em rgb(111, 0, 255), 0 0 0.2em blue;
 
 
-     h7 { 
-        color: pink;
-        text-decoration: dotted;
-        font-size: 15px ;
-         font-family:Arial, Helvetica, sans-serif;
-         text-shadow: 1px 1px 2px rgb(255, 0, 128), 0 0 1em rgb(111, 0, 255), 0 0 0.2em blue;
+
     
 }
 
